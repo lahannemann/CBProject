@@ -1,17 +1,2 @@
 The primary goal of this integration is to establish a seamless linkage between requirements managed in Codebeamer and Git commits within Github. By achieving this linkage, we aim to enhance tracking and traceability throughout the software development lifecycle. This integration will facilitate the correlation of specific requirements with the corresponding Git commits, thereby enabling better visibility into the evolution of the codebase in alignment with project requirements. Through this enhanced tracking and traceability, teams can ensure that software changes are consistently aligned with stakeholder requirements, fostering greater transparency and accountability in the development process.
 
-Work on Outlet Control Hub
-
-Work on Warranty Tracker
-
-Work on Simple Setup Wizard
-
-CHange on separate branch (2)
-
-Work on Secure Login Mechanism
-
-Work on Data Shield Protocal
-
-Work on Access Control Blueprint
-
-Fixed bug Emergency Shutdown Feature
